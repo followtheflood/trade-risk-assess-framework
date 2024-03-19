@@ -1,0 +1,29 @@
+{
+  "name": "trade-risk-assess-framework",
+  "version": "1.0.0",
+  "description": "Assess risks effectively with a comprehensive framework, identifying and mitigating potential risks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/followtheflood/trade-risk-assess-framework"
+  },
+  "author": "followtheflood",
+  "license": "MIT",
+  "dependencies": {
+    "trade-risk-assess-framework": "1.0.0",
+    "trade-risk-assess-framework-usage": "1.0.0",
+    "react": "1.0.0",
+    "truffle": "1.0.0",
+    "nodemon": "1.0.0",
+    "cheerio": "1.0.0",
+    "solc": "1.0.0",
+    "redux": "1.0.0",
+    "debug": "1.0.0",
+    "enzyme": "1.0.0",
+    "request": "1.0.0",
+    "babel-core": "1.0.0"
+  }
+}
